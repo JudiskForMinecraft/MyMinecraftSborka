@@ -53,7 +53,7 @@
 40. [ChickenShed](https://www.geroncraft.ru/chickenshedcontinued/)
 41. [MekanismGenerators](https://www.geroncraft.ru/mekanism-generators/)
 42. [MekanismTools](https://www.geroncraft.ru/mekanism-tools/)
-43. []()
+43. [Clumps](https://ru-minecraft.ru/mody-minecraft/48686-clumps-opyt-v-odnu-kapelku.html)
 44.
 45.
 46.
