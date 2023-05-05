@@ -49,5 +49,5 @@
 35. [SlashBlade](https://minecraft-inside.ru/mods/29209-slashblade.html) 
 36. [Ice and Fire](https://minecraft-inside.ru/mods/50406-ice-and-fire.html) 
 37. [LLibrary (need Ice and Fire)](https://minecraft-inside.ru/mods/24438-llibrary.html)
-38. [Smart Moving](https://minecraft-inside.ru/mods/9474-smart-moving-mod.html)
+38. [Smart Moving](https://minecraft-inside.ru/mods/9474-smart-moving-mod.html) RenderPlayerAPI SmartRender
 39. [Player API](https://minecraft-inside.ru/mods/13112-player-api.html)
