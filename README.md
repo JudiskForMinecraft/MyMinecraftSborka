@@ -39,3 +39,4 @@
 26. [Millenaire](https://minecraft-inside.ru/mods/9434-millenaire-mod.html) 
 27. [Forbidden and Arcanus](https://minecraft-inside.ru/mods/93098-forbidden-and-arcanus.html)
 28. [Useful Backpacks](https://minecraft-inside.ru/mods/79560-useful-backpacks.html)
+29. [Hwyla](https://minecraft-inside.ru/mods/45372-hwyla.html)
