@@ -1,6 +1,5 @@
 
 # **Version Minecraft - 1.12.2**
-
 ## Mod list
 
 1.  [Mahou Tsukai](https://minecraft-inside.ru/mods/135058-mahou-tsukai.html)
