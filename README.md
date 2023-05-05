@@ -50,4 +50,10 @@
 37. [LLibrary (need Ice and Fire)](https://minecraft-inside.ru/mods/24438-llibrary.html)
 38. [Smart Moving](https://minecraft-inside.ru/mods/9474-smart-moving-mod.html) RenderPlayerAPI SmartRender
 39. [Player API](https://minecraft-inside.ru/mods/13112-player-api.html)
-
+40. [ChickenShed](https://www.geroncraft.ru/chickenshedcontinued/)
+41. [MekanismGenerators](https://www.geroncraft.ru/mekanism-generators/)
+42. [MekanismTools](https://www.geroncraft.ru/mekanism-tools/)
+43. []()
+44.
+45.
+46.
