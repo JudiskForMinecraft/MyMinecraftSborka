@@ -61,7 +61,4 @@
 4. [Get It Together, Drops](https://ru-minecraft.ru/mody-minecraft/75216-get-it-together-drops.html)
 5. [Phosphor](https://ru-minecraft.ru/mody-minecraft/55952-phosphor.html)
 6. [AI Improvements](https://ru-minecraft.ru/mody-minecraft/49098-ai-improvements.html)
-7. [FastWorkbench](https://ru-minecraft.ru/mody-minecraft/73424-fastworkbench.html)
-8. [Entity Culling](https://ru-minecraft.ru/mody-minecraft/67228-entity-culling.html)
-9. [Particle Culling](https://ru-minecraft.ru/mody-minecraft/64551-particle-culling.html)
-10. [FoamFix](https://minecraft-inside.ru/mods/76656-foamfix.html)
+7. [FoamFix](https://minecraft-inside.ru/mods/76656-foamfix.html)
