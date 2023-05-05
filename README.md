@@ -47,3 +47,5 @@
 33. [FoamFix](https://minecraft-inside.ru/mods/76656-foamfix.html)
 34. [Mekanism](https://minecraft-inside.ru/mods/45204-mekanism.html)
 35. [SlashBlade](https://minecraft-inside.ru/mods/29209-slashblade.html) 
+36. [Ice and Fire](https://minecraft-inside.ru/mods/50406-ice-and-fire.html) 
+37. [LLibrary (need Ice and Fire)](https://minecraft-inside.ru/mods/24438-llibrary.html)
