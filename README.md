@@ -51,4 +51,4 @@
 37. [LLibrary (need Ice and Fire)](https://minecraft-inside.ru/mods/24438-llibrary.html)
 38. [Smart Moving](https://minecraft-inside.ru/mods/9474-smart-moving-mod.html) RenderPlayerAPI SmartRender
 39. [Player API](https://minecraft-inside.ru/mods/13112-player-api.html)
-40. [Dynamic Lights](https://minecraft-inside.ru/mods/8978-dynamic-lights-mod.html)
+
