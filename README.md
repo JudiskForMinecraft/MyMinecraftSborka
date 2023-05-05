@@ -43,3 +43,4 @@
 30. [ExtraBotany (need Botania)](https://minecraft-inside.ru/mods/75474-extrabotany.html) 
 31. [Garden of Glass (need Botania)](https://minecraft-inside.ru/mods/21364-garden-of-glass.html)
 32. [HarvestCraft](https://minecraft-inside.ru/mods/10290-harvestcraft-mod.html) 
+33. [GokiStats](https://minecraft-inside.ru/mods/74528-gokistats.html)
