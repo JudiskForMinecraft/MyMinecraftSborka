@@ -55,4 +55,4 @@
 42. [Portable Crafting Table](https://ru-minecraft.ru/mody-minecraft/30958-portable-crafting-table.html)
 43. [Dregora O Plenty](https://minecraft-inside.ru/mods/163857-dregora-o-plenty.html)
 44. [Open Terrain Generator](https://minecraft-inside.ru/mods/52527-open-terrain-generator.html)
-45/ [NoFog](https://ru-minecraft.ru/mody-minecraft/55716-nofog.html)
+45. [NoFog](https://ru-minecraft.ru/mody-minecraft/55716-nofog.html)
