@@ -45,3 +45,5 @@
 32. [HarvestCraft](https://minecraft-inside.ru/mods/10290-harvestcraft-mod.html) 
 33. [GokiStats](https://minecraft-inside.ru/mods/74528-gokistats.html)
 33. [FoamFix](https://minecraft-inside.ru/mods/76656-foamfix.html)
+34. [Mekanism](https://minecraft-inside.ru/mods/45204-mekanism.html)
+35. [SlashBlade](https://minecraft-inside.ru/mods/29209-slashblade.html) 
