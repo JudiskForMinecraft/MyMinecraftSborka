@@ -56,3 +56,5 @@
 43. [Clumps](https://ru-minecraft.ru/mody-minecraft/48686-clumps-opyt-v-odnu-kapelku.html)
 44. [Iron Furnaces](https://ru-minecraft.ru/mody-minecraft/48755-iron-furnaces-unikalnye-pechki.html)
 45. [Portable Crafting Table](https://ru-minecraft.ru/mody-minecraft/30958-portable-crafting-table.html)
+46. [Dregora O Plenty](https://minecraft-inside.ru/mods/163857-dregora-o-plenty.html)
+47. [Open Terrain Generator](https://minecraft-inside.ru/mods/52527-open-terrain-generator.html)
