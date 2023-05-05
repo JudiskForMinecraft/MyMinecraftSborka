@@ -40,3 +40,5 @@
 27. [Forbidden and Arcanus](https://minecraft-inside.ru/mods/93098-forbidden-and-arcanus.html)
 28. [Useful Backpacks](https://minecraft-inside.ru/mods/79560-useful-backpacks.html)
 29. [Hwyla](https://minecraft-inside.ru/mods/45372-hwyla.html)
+30. [ExtraBotany (need Botania)](https://minecraft-inside.ru/mods/75474-extrabotany.html) 
+31. [Garden of Glass (need Botania)](https://minecraft-inside.ru/mods/21364-garden-of-glass.html)
